@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+
+<html lang="pt">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Descubra seu signo</title>
+
+</head>
+
+<body>
+
+<h2>Descubra seu Signo</h2>
+
+<form action="">
+
+<label for="fdata">Data de Nascimento:</label><br>
+
+<input type="date" id="fdata"><br><br>
+
+<input type="submit" value="Enviar">
+
+</form>
+
+</body>
+
+</html>
+
+<?xml version="1.0"?>
+
+<signos>
+
+<signo>
+
+<dataInicio>21/01</dataInicio>
+
+<dataFim>18/02</dataFim>
+
+<signoNome>Aquário</signoNome>
+
+<descricao>Signo de ar, o aquariano preza muito por sua liberdade.</descricao>
+
+</signo>
+
+<signo>
+
+<dataInicio>19/02</dataInicio>
+
+<dataFim>20/03</dataFim>
+
+<signoNome>Peixes</signoNome>
+
+<descricao>Signo de água, o signo mais romântico do zodíaco.</descricao>
+
+</signo>
+
+<signo>
+
+<dataInicio>21/03</dataInicio>
+
+<dataFim>20/04</dataFim>
+
+<signoNome>Áries</signoNome>
+
+<descricao>Signo de fogo, impulsivo, o ariano não pensa muito sobre seus atos.</descricao>
+
+</signo>
+
+<signo>
+
+<dataInicio>21/04</dataInicio>
+
+<dataFim>21/05</dataFim>
+
+<signoNome>Touro</signoNome>
+
+<descricao>Signo de terra, teimoso, o taurino é determinado e protetor.</descricao>
+
+</signo>
+
+<signo>
+
+<dataInicio>21/05</dataInicio>
+
+<dataFim>20/06</dataFim>
+
+<signoNome>Gêmeos</signoNome>
+
+<descricao>Signo de ar, Espontâneo e um pouco instável, o geminiano é uma verdadeira caixinha de surpresas.</descricao>
+
+</signo>
+
+<signo>
+
+<dataInicio>21/06</dataInicio>
+
+<dataFim>23/07</dataFim>
+
+<signoNome>Câncer</signoNome>
+
+<descricao>Sino de água, curioso, faz amizade com facilidade, mas pode ser um pouco sensível..</descricao>
+
+</signo>
+
+<signo>
+
+<dataInicio>23/07</dataInicio>
+
+<dataFim>22/08</dataFim>
+
+<signoNome>Leão</signoNome>
+
+<descricao>Signo de fogo, Este é signo que veio para brilhar. O leonino gosta de chamar a atenção e ser o centro do mundo, mas também é muito amável e leal.</descricao>
+
+</signo>
+
+<signo>
+
+<dataInicio>23/08</dataInicio>
+
+<dataFim>22/09</dataFim>
+
+<signoNome>Virgem</signoNome>
+
+<descricao>Signo de terra, perspicaz e inteligente, o virginiano está acostumado com o sucesso, por isso se cobra muito.</descricao>
+
+</signo>
+
+<signo>
+
+<dataInicio>23/09</dataInicio>
+
+<dataFim>22/10</dataFim>
+
+<signoNome>Libra</signoNome>
+
+<descricao>Signo de ar, gosta do que é belo e harmonioso. Não gosta de conflitos e por isso tenta ser imparcial em debates e brigas.</descricao>
+
+</signo>
+
+<signo>
+
+<dataInicio>23/10</dataInicio>
+
+<dataFim>21/11</dataFim>
+
+<signoNome>Escorpião</signoNome>
+
+<descricao>Signo de água, Determinado, o escorpiano vai até o fim para conquistar os seus objetivos.</descricao>
+
+</signo>
+
+<signo>
+
+<dataInicio>22/11</dataInicio>
+
+<dataFim>21/12</dataFim>
+
+<signoNome>Sagitário</signoNome>
+
+<descricao>Signo de fogo, um signo de bem com a vida, que está sempre em busca de ação e que vive rodeado de amigos.</descricao>
+
+</signo>
+
+</signos>
